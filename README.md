@@ -45,7 +45,7 @@ This chatbot has been created using Dialogflow and uses Firebase as database.
 ![database](/img/database.png)
 
 **UI**
-![UI1](/img/UI1.png)
+![UI1](/img/UI1.PNG)
 
 **UI**
-![UI2](/img/UI2.png)
+![UI2](/img/UI2.PNG)
