@@ -18,7 +18,7 @@ It offers a UI to facilitate pizza ordering from YoYo pizza. It takes user input
 5. Enter your phone number.
 6. Enter your address.
 
-This chatbot has been created using Dialogflow and uses Firebase as database.
+This chatbot has been created using Dialogflow for backend development and uses Firebase as database.
 
 #### Dialogflow Intents 
 
