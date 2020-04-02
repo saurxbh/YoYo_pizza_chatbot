@@ -22,3 +22,27 @@ This chatbot has been created using Dialogflow and uses Firebase as database.
 
 **Dialogflow Intents**
 ![Intents](/img/intents.png)
+
+**intent for pizza ordering**
+![pizza_order](/img/pizza_order.png)
+
+**intent for order tracking**
+![pizza_track](/img/pizza_track.png)
+
+**Dialogflow Entities**
+![Entities](/img/entities.png)
+
+**pizza_name entity**
+![pizza_name_entity](/img/pizza_name_entity.png)
+
+**pizza_size entity**
+![pizza_size_entity](/img/pizza_size_entity.png)
+
+**database**
+![database](/img/database.png)
+
+**UI**
+![UI](/img/UI1.png)
+
+**UI**
+![UI](/img/UI2.png)
