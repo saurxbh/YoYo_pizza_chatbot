@@ -21,12 +21,15 @@ It offers a UI to facilitate pizza ordering from YoYo pizza. It takes user input
 This chatbot has been created using Dialogflow and uses Firebase as database.
 
 **Dialogflow Intents**
+
 ![Intents](/img/intents.png)
 
-**intent for pizza ordering**
+**Intent for pizza ordering**
+
 ![pizza_order](/img/pizza_order.png)
 
-**intent for order tracking**
+**Intent for order tracking**
+
 ![pizza_track](/img/pizza_track.png)
 
 **Dialogflow Entities**
@@ -38,7 +41,7 @@ This chatbot has been created using Dialogflow and uses Firebase as database.
 **pizza_size entity**
 ![pizza_size_entity](/img/pizza_size_entity.png)
 
-**database**
+**Database**
 ![database](/img/database.png)
 
 **UI**
